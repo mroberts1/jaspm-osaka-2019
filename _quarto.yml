@@ -1,9 +1,7 @@
 project:
   type: 
     website
-
-website:
-  margin-header: "header.md"
+    
 format:
   html:
     theme: 
@@ -12,10 +10,10 @@ format:
     css: custom.scss
     self-contained: true
     grid: 
-      # sidebar-width: 400px
-      body-width: 650px
-      # margin-width: 300px
-      # gutter-width: 2em
+      sidebar-width: 400px
+      body-width: 550px
+      margin-width: 300px
+      gutter-width: 2em
     fontsize: 0.9em
     linestretch: 1.2
     smooth-scroll: true 
