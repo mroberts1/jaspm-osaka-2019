@@ -107,7 +107,7 @@ But what if the relation between animated musical and graphical objects was more
 {{< video https://youtu.be/P0EGtHNHp2s >}}
 :::
 
-Oyamada’s collaboration with Keita Onishi in the [Audio Architecture](https://www.2121designsight.jp/en/program/audio_architecture/) exhibition in 2018 represents another example of the increasing interchangeability of sonic and visual objects, digital music and motion graphics.[<br><br><br><br><br>Cornelius, "Audio Architecture" (2018). Visuals: Keita Onishi.]{.aside}
+Oyamada’s collaboration with Onishi Keita in the [Audio Architecture](https://www.2121designsight.jp/en/program/audio_architecture/) exhibition in 2018 represents another example of the increasing interchangeability of sonic and visual objects, digital music and motion graphics.[<br><br><br><br>Cornelius, "Audio Architecture" (2018). Visuals: Onishi Keita.]{.aside}
 
 {{< video https://youtu.be/RvNpY-gF_LE >}}
 
@@ -134,7 +134,7 @@ These are currently developing in at least three directions:
 At the Audio Architecture show, which emphasized large-screen projection, it became possible to walk around inside a Cornelius music video. But as far as I know, it is currently the third, AR/MR kind of immersive experience that Oyamada is currently exploring, and which seems likely to bring a new dimension to his future experiments with musical objects. Kitasenji, the design studio of his longtime collaborator Koichiro Tsujikawa, has recently been doing the same in its animated visuals for De De Mouse.
 
 ::: {.column-margin}
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 {{< video https://youtu.be/_ipWvRk6lsE >}}
 
@@ -187,6 +187,8 @@ Perhaps the most remarkable example of Oyamada's visual music to date is the vid
 
 With this video, the trajectory of Oyamada's music becomes clear: the **oceanic**, a fully immersive  experience in which the mind dissolves into the world around it. The **wave** has become an increasingly prominent motif in his work since at least *Mellow Waves*, in all its senses: sound waves, ocean waves, the brain waves of the mind itself. This interest in the immersive lends him much in common with his compatriot artist, Ryoji Ikeda; but whereas Ikeda is primarily interested in **data** and his work seeks to immerse us in the hyperspace of datascapes, Oyamada is interested in altered states of consciousness and the synesthetic correspondences between sensory experiences. Whereas Ikeda's immersive spaces are data-driven, Oyamada's are **psychotropic**: it is about opening the mind to new forms of oceanic consciousness of the world through audiovisual experiences. We would expect nothing less from the creator of an album so inflected by psychedelia: *Fantasma*.
 
-<center>![](images/fantasma-album.webp){width=100}</center>
+<center>[![](images/fantasma-album.webp){width=100}](https://corneliusofficial.bandcamp.com/album/fantasma-remastered)</center>
+
+***
 
 
