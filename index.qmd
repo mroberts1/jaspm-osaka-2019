@@ -140,7 +140,7 @@ At the Audio Architecture show, which emphasized large-screen projection, it bec
 
 :::
 
-## Mind Games
+## Cosmic Voyage
 
 {{< video https://youtu.be/XTyeV_On_Q8 >}}
 
@@ -153,7 +153,18 @@ The YouTube release in July 2024 of Cornelius’s music video “Mind Train” t
 
 :::
 
-Continuing the monochromatic minimalism of Oyamada's work since *Mellow Waves* (2017), the motion graphics video depicts a single POV shot of a virtual train speeding along an endless *track* that becomes a visual metaphor for the musical track synchronized with it. Superficially, the video recalls the ubiquitous YouTube genre of "fractal movies," inspired by the fractal zooms of early computational art, or one of the generative music videos popular among experimental electronic musicians. But there is more to it than this. As with "Audio Architecture," "Mind Train" places us inside a three-dimensional sequencer, as animated sound objects are triggered like MIDI notes by the passing train/playhead. As the song's title indicates, however, the ride is also a cosmic voyage through the **mind**: around the midpoint, the viewpoint plunges into a kind of wormhole maze reminiscent of neural networks, emerging in a hyperspace of floating planetary orbs where the music grinds to a halt for a few seconds; the central planet turns out to be a kind of mouseball whose movement retriggers the music.
+remain
+memory
+brain
+reality
+memory
+again
+again
+again
+again
+
+
+A black-and-white motion graphics video that continues the monochromatic aesthetic that has characterized Oyamada's work since *Mellow Waves* (2017), the video at first sight recalls an animated music visualizer, or the fractal zooms of early computer art that have inspired an entire YouTube genre of fly-through fractal movies. It starts out rather straightforwardly, as a POV shot from the front of a train speeding along an endless track through a virtual landscape, through arches, tunnels, and across bridges. The train **track** is as a visual metaphor for the musical track, as we realize that as in "Audio Architecture" we are inside a three-dimensional sequencer with the moving POV as a virtual playhead that passes through an array of musical objects: clusters of floating orbs, a flock of seagulls, geometric shapes. This is also a journey into the **mind**, however, and in an abrupt segue the train/playhead plunges through a kind of neural network of the memory itself, with words appearing as they are sung on the audio track (remain, memory, brain, memory, again). After a guitar solo visualized by a corridor of pulsating strings (reminiscent of the "meet the soundtrack" sequence in *Fantasia*), the music appears to disintegate as we emerge in a hyperspace of randomly floating musical objects, arriving at a planet/trackball that pauses the playback. In the video's most fascinating sequence, a comet, meteorites, clusters of satellites, and rings visualize musical patterns and motifs against an ethereal audiovisual space. The three-dimensional objects here recall those of animated computer art, but their dynamic movement generates corresponding musical patterns: squiggly lines make squiggly music (or vice versa). The next section most closely resembles the algorithmic music visualizers of contemporary electronic music, before we return to the virtual train ride as the video moves to its conclusion.
 
 In its seamless synchronization of animated objects and musical cues, "Mind Train" exemplifies what Steven Shaviro calls the **rhythm image**, a contemporary form of audiovisual media that he argues has superseded the twentieth-century movement-image and the time-image theorized by Gilles Deleuze. One of Shaviro's primary examples of the rhythm image also involves a train: Michel Gondry's music video for The Chemical Brothers' song "Star Guitar" (2002) depicts what appears to be a continuous shot from the window of a train, with the visual shapes of passing buildings and objects perfectly synchronized with the song's beats and musical elements.
 
