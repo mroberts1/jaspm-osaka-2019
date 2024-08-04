@@ -1,29 +1,10 @@
 Platformers and Sequencers: Playing with MIDI 
 LUDOMUSICOLOGY conference 2015 
 Martin Roberts
-game 
 University of Derby 
  
-
-
-
-
-
+game 
 music
-toy
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 At what point does a game become a musical instrument, or a musical instrument a game? What is the relationship between a game, a musical instrument, and that often problematic category, at least for adults, a toy? These are some of the questions I have myself been toying with in recent years, both in theoretical and in practical terms, and which inform the present paper. Broadly speaking, I’m interested in the relationship between musical and gaming environments, and the increasing blurring of the lines between them over recent decades, or what may be schematically seen as the convergence of the three circles in the above diagram.
 
@@ -33,7 +14,9 @@ A third and more recent dimension of the convergence between games and music inv
 
 MIDI (Musical Instrument Digital Interface) technology, I will be suggesting in what follows, occupies a key position, not just in technical but also conceptual terms, at the interface between games and music today. While I don't intend to go into the history of MIDI since its origins in the 1980s, a brief clarification of what we're talking about may be useful at the outset. As Winifred Phillips describes in one of the most lucid recent accounts of the subject, MIDI is most easily understood as the digital descendant of the historical piano rolls and music boxes which were among the earliest forms of musical automation. It originated as a communication protocol enabling the digital capture of performance as data, not just in terms of note-events but also expressive elements such as velocity or sustain, which enabled the possibility of using the resulting MIDI file either to generate sound either from a hardware instrument such as a synthesizer, or, increasingly, from a virtual one in the sound library of a digital audio workstation. While MIDI remains a key part of the game composer's repertoire, as Phillips explains, it is only one of multiple tools which include LucasArts' iMUSE system, MOD files, and rendered audio files. MIDI's significance in the domain of electronic music production was that it in tandem with virtual instrument libraries and sequencers, it made it possible to produce music entirely on digital audio workstations, independently of the performance of musicians. It remains a fundamental element of electronic music production and its significance has arguably grown in recent years with the growth of iOS as a major music production platform and the plethora of MIDI-based music sofware which has accompanied it.
 
-I want to begin by reviewing some historical prototypes of contemporary mutations in game-music hybridization, which given the expertise of this particular audience will presumably be familiar to a good number of people here today.  It will come as no surprise that Nintendo looms large in the historical timeline of game-music hybrids, most notably in the work of Toshio Iwai, whose career can be seen as in many ways located at the nexus between the three circles of game, music, and toy of my initial diagram. In the domain of digital music, Iwai is known primarily as the developer of a device known as the Tenori-on, a hand-held tone-matrix step-sequencer which in the late 1990s and early 2000s enjoyed a brief niche popularity among experimentally-inclined popular musicians, from Kieran Hebden (Fourtet) to Victoria Hesketh (Little Boots). In the gaming world, though, Iwai is better known as the creator of two games, Otocky (1987) and Electroplankton (2005) which are considered pioneering examples exploring the frontier between games and music, the idea of games as musical instruments, and vice versa. Otocky, described as “an improvisatory music-themed shoot-‘em up with a procedurally generated soundtrack”, was reportedly inspired by Iwai’s earlier experiments in using the arcade game Xevious and later Super Mario Bros. to play music. While Otocky was experienced more as a musical toy than a game proper, Electroplankton was more explicitly conceived as a “set of 10 small musical toys” drawing on biological metaphors for generating digital musical lifeforms. 
+I want to begin by reviewing some historical prototypes of contemporary mutations in game-music hybridization, which given the expertise of this particular audience will presumably be familiar to a good number of people here today.  It will come as no surprise that Nintendo looms large in the historical timeline of game-music hybrids, most notably in the work of Toshio Iwai, whose career can be seen as in many ways located at the nexus between the three circles of game, music, and toy of my initial diagram. In the domain of digital music, Iwai is known primarily as the developer of a device known as the Tenori-on, a hand-held tone-matrix step-sequencer which in the late 1990s and early 2000s enjoyed a brief niche popularity among experimentally-inclined popular musicians, from Kieran Hebden (Fourtet) to Victoria Hesketh (Little Boots). 
+
+In the gaming world, though, Iwai is better known as the creator of two games, Otocky (1987) and Electroplankton (2005) which are considered pioneering examples exploring the frontier between games and music, the idea of games as musical instruments, and vice versa. Otocky, described as “an improvisatory music-themed shoot-‘em up with a procedurally generated soundtrack”, was reportedly inspired by Iwai’s earlier experiments in using the arcade game Xevious and later Super Mario Bros. to play music. While Otocky was experienced more as a musical toy than a game proper, Electroplankton was more explicitly conceived as a “set of 10 small musical toys” drawing on biological metaphors for generating digital musical lifeforms. 
 
 Interesting as each of these examples are, they arguably maintain a hierarchical relationship in which music remains internal and in a sense subordinate to the game environment. From this perspective the Tenori-on can be seen as a more radical experiment in that it goes further in blurring the boundaries between game, music and toy. Seeing and hearing the device for the first time created an ontological confusion in understanding what exactly it was: a new musical instrument? A new kind of game? A toy? Or all of the above? This confusion primarily involved the fact that it could be played in both senses of the term, both like a musical instrument and like a kind of abstract game in which initial parameters can be set and modified experimentally in real time, without a clear idea at the outset of their outcome. While as a piece of hardware the device was credible as a new kind of musical instrument, its subsequent migration to the platforms of mobile phones and tablets as software, in the form of Yamaha’s TNR-i iOS app, along with an entire generation of offspring apps inspired by it, positioned it more polymorphously as a musical game or toy that could be simultaneously played and played with in a kind of musical bricolage.
 

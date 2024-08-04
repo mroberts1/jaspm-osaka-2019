@@ -14,16 +14,13 @@ format:
     css: custom.scss
     self-contained: true
     grid: 
-      sidebar-width: 300px
+      #sidebar-width: 300px
       body-width: 550px
-      margin-width: 300px
-      gutter-width: 2em
+      #margin-width: 300px
+      #gutter-width: 2em
     fontsize: 0.8em
     linestretch: 1.5
     smooth-scroll: true
-comments:
-  giscus:
-    repo: mroberts1/jaspm-osaka-2019
 fig-responsive: true
 embed-resources: false
 link-external-icon: false
@@ -34,4 +31,4 @@ image-alt: " "
 execute: 
   freeze: auto
 footnotes-hover: true
-bibliography: bibliography_citedrive.bib
+#bibliography: bibliography_citedrive.bib

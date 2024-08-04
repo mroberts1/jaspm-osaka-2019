@@ -1,15 +1,10 @@
 ---
 title: "Three-Dimensional Music"
 subtitle: "Cornelius's Animated Soundworlds"
+comments: 
+  utterances: 
+    repo:  mroberts1/blogComments
 ---
-
-```{r}
-#| label: load-packages
-#| include: false
-
-library(tidyverse)
-library(palmerpenguins)
-```
 
 [<br>This paper was originally presented at the Japanese Association for the Study of Popular Music (JASPM) conference, Osaka, 7 December 2019. Revised  and expanded July 2024.
 <br><br>
@@ -185,10 +180,10 @@ A closer antecedent for "Mind Train" are the music-based videogames produced by 
 
 Perhaps the most remarkable example of Oyamada's visual music to date is the video produced by Koichiro Tsujikawa for the track "Surfing on Mind Wave pt 2," from his album *Mellow Waves* (2017). Monochrome and almost completely abstract, the video opens in silence with a grey POV shot moving over the ocean towards a low, hazy sun centered in the frame. Almost immediately, a sustained string chord triggers the video's main visual trope, the spiralling tube of a giant wave seen in a GoPro-style camera view by a surfer moving through it (the tip of a surfboard intermittently appears at the bottom of the shot). The sustained string chord remains unresolved for the duration of the track, streteched into a drone and modulated by new harmonic layers and electronic sound effects. Sound and image are mutually responsive: a phrase of scattered electronic notes emerges as water droplets fly across the screen; sonic and visual glitches or splashes seamlessly reproduce one another so that sound and image become indistinguishable. As sampled voices and laughter are heard, speaking and smiling mouths briefly fade into view. Towards the midpoint, as the string drone begins to strobe, the wave becomes a tunnel-like vortex whirling around the sun, only to recede and open onto a sky of seagulls wheeling overhead, their cries reproduced on the soundtrack. As they transition into the cries of a children's playground, the ghostly silhouettes of children swim briefly into view. Throughout, the sun remains centered in the frame like a gyroscope, as the wave swirls around it over filtered, strobing electronic sounds. Appropriately, the last sample is of waves themselves, mingled with the cries of the seagulls, as sound and image coalesce and fade, returning us to the initial silence above a calm ocean.
 
-With this video, the trajectory of Oyamada's music becomes clear: the **oceanic**, a fully immersive  experience in which the mind dissolves into the world around it. The **wave** has become an increasingly prominent motif in his work since at least *Mellow Waves*, in all its senses: sound waves, ocean waves, the brain waves of the mind itself. This interest in the immersive lends him much in common with his compatriot artist, Ryoji Ikeda; but whereas Ikeda is primarily interested in **data** and his work seeks to immerse us in the hyperspace of datascapes, Oyamada is interested in altered states of consciousness and the synesthetic correspondences between sensory experiences. Whereas Ikeda's immersive spaces are data-driven, Oyamada's are **psychotropic**: it is about opening the mind to new forms of oceanic consciousness of the world through audiovisual experiences. We would expect nothing less from the creator of an album so inflected by psychedelia: *Fantasma*.
+With this video, the trajectory of Oyamada's music becomes clear: the **oceanic**, a fully immersive  experience in which the mind dissolves into the world around it. The **wave** has become an increasingly prominent motif in his work since at least *Mellow Waves*, in all its senses: sound waves, ocean waves, the brain waves of the mind itself. This interest in the immersive lends him much in common with his compatriot artist, Ryoji Ikeda; but whereas Ikeda is primarily interested in **data** and his work seeks to immerse us in the hyperspace of datascapes, Oyamada is interested in altered states of consciousness and the synesthetic correspondences between sensory experiences. Whereas Ikeda's immersive spaces are data-driven, Oyamada's are **psychedelic**: it is about opening the mind to new forms of oceanic consciousness of the world through audiovisual experiences. We would expect nothing less from the creator of an album so inflected by psychedelia: *Fantasma*.
 
 <center>[![](images/fantasma-album.webp){width=100}](https://corneliusofficial.bandcamp.com/album/fantasma-remastered)</center>
 
-***
+
 
 
