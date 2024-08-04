@@ -21,6 +21,9 @@ format:
     fontsize: 0.8em
     linestretch: 1.5
     smooth-scroll: true
+    comments: 
+      utterances: 
+        repo:  mroberts1/blogComments
 fig-responsive: true
 embed-resources: false
 link-external-icon: false

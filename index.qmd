@@ -1,9 +1,6 @@
 ---
 title: "Three-Dimensional Music"
 subtitle: "Cornelius's Animated Soundworlds"
-comments: 
-  utterances: 
-    repo:  mroberts1/blogComments
 ---
 
 [<br>This paper was originally presented at the Japanese Association for the Study of Popular Music (JASPM) conference, Osaka, 7 December 2019. Revised  and expanded July 2024.
@@ -140,13 +137,6 @@ At the Audio Architecture show, which emphasized large-screen projection, it bec
 {{< video https://youtu.be/XTyeV_On_Q8 >}}
 
 The YouTube release in July 2024 of Cornelius’s music video “Mind Train” to promote a forthcoming 12-inch single release marks the latest installment in Oyamada’s exploration of digital visual music Produced by Keita Onishi, the 9-minute music video is the most fully-realized example of Oyamada’s exploration of the interplay between sound and visual objects, music and motion graphics.[The track's title and extended duration appears to be an homage to Yoko Ono's 16-minute psychedelic freak-out "Mindtrain" from her 1971 album *Fly* (minus the orgasmic vocalizing), although one section recalls the trippy retropop of Stereolab.]{.aside}
-
-::: {.column-margin}
-{{< video https://youtu.be/adiKi-BmywI >}}
-
-<small>"Mind Train" live, Kyoto, 13 July 2024.</small>
-
-:::
 
 A black-and-white motion graphics video that continues the monochromatic aesthetic that has characterized Oyamada's work since *Mellow Waves* (2017), the video at first sight looks like a music visualizer, or the "cosmic zooms" of fractal movies inspired by early computer art. It begins as a POV shot from a train speeding along an endless track through a virtual landscape. The **track** serves as a visual metaphor for the musical track, with the onrushing POV as a playhead that triggers musical objects like MIDI notes along the timeline of a DAW: floating orbs, a flock of seagulls, geometric shapes. The train/playhead then plunges into a kind of neural network that seems to simulate consciousness itself, with text-objects appearing as the corresponding words are sung on the audio track (remain ... memory ... brain ... memory ... again again again again again). A guitar solo is visualized by a corridor of pulsating strings reminiscent of the "meet the soundtrack" sequence in *Fantasia*, after which the musical soundworld appears to disintegrate as we emerge into a hyperspace of floating musical objects, eventually reaching a planet/trackball where the playback momentarily pauses. In the video's most fascinating sequence, a comet, meteorites, clusters of satellites, and rings visualize musical patterns and motifs against an ethereal audiovisual space. The three-dimensional objects here recall those of animated computer art, but their dynamic movement generates corresponding musical patterns: squiggly lines make squiggly music (or vice versa). The next section most closely resembles the algorithmic music visualizers of contemporary electronic music, before we return to the virtual train and the video concludes in rhythmic abstraction.
 
