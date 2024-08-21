@@ -16,9 +16,21 @@ $font-family-sans-serif: "Work Sans", "Source Sans Pro", "Atkinson Hyperlegible"
 // use Adobe Europa
 @import url("https://use.typekit.net/sfe1vyn.css");
 
+// use Aperture Digital Typeface
+@font-face {
+    font-family: 'apertureregular';
+    src: url('fonts/aperture2.0-webfont.eot'),
+         url('fonts/aperture2.0-webfont.woff2') format('woff2'),
+         url('fonts/aperture2.0-webfont.woff') format('woff'),
+         url('fonts/aperture2.0-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 $primary:  #06436e !default;
 $font-family-serif: 'Spectral', serif !default;
-$headings-font-family: 'Nova Square', sans-serif !default;
+$headings-font-family: 'apertureregular', sans-serif !default;
 
 /*-- scss:rules --*/
 
@@ -29,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
  }
 h1 {
   font-size: 30px;
-  text-transform: uppercase;
+  //text-transform: uppercase;
 }
 p, li {
   font-family: $font-family-sans-serif;

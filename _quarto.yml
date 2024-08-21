@@ -4,7 +4,7 @@ project:
     
 format:
   html:
-    toc: true
+    toc: false
     toc-location: left
     toc-title: "    "
     toc-depth: 3
