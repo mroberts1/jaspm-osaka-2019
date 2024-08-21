@@ -37,10 +37,12 @@ $headings-font-family: 'apertureregular', sans-serif !default;
 // litera is serif by default: revert to san-serif
 h1, h2, h3, h4, h5, h6 {
   font-family: $headings-font-family;
-  font-size: 22px;
+  font-size: 1.75rem;
+  letter-spacing: 1px;
  }
 h1 {
-  font-size: 30px;
+  font-size: 2.5rem;
+  letter-spacing: 1px;
   //text-transform: uppercase;
 }
 p, li {
