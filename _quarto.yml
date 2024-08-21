@@ -9,8 +9,8 @@ format:
     toc-title: "    "
     toc-depth: 3
     theme: 
-      light: ember.scss
-      dark: [ember.scss, slate]
+      light: [ember.scss, quartz]
+      dark: [ember.scss, vapor]
     css: custom.scss
     self-contained: true
     grid: 
